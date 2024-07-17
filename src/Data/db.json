@@ -1,0 +1,83 @@
+[{
+    "question":"Which function is used to serialize an object into a JSON string in Javascript?",
+    "option1":"stringify()",
+    "option2":"parse()",
+    "option3":"convert()",
+    "option4":"None of the above",
+    "answer":"1"
+},
+{
+    "question":"Which of the following keywords is used to define a variable in Javascript?",
+    "option1":"var",
+    "option2":"let",
+    "option3":"var and let",
+    "option4":"None of the above",
+    "answer":"3"
+},
+{
+    "question":"Which of the following methods can be used to display data in some form using Javascript?",
+    "option1":"document.write()",
+    "option2":"window.alert",
+    "option3":"console.log()",
+    "option4":"All of the above",
+    "answer":"3"
+},
+{
+    "question":"How can a datatype be declared to be a constant type?",
+    "option1":"var",
+    "option2":"let",
+    "option3":"constant",
+    "option4":"const",
+    "answer":"4"
+},
+{
+    "question":"Which company developed JavaScript?",
+    "option1":"Microsoft",
+    "option2":"let",
+    "option3":"Netscape",
+    "option4":"Google",
+    "answer":"3"
+},
+{
+    "question":"Which method is used to remove the last element from an array and returns that element?",
+    "option1":"remove()",
+    "option2":"last()",
+    "option3":"push()",
+    "option4":"pop()",
+    "answer":"4"
+},
+{
+    "question":"Which built-in method combines the text of two strings and returns a new string?",
+    "option1":"combine()",
+    "option2":"concat()",
+    "option3":"attach()",
+    "option4":"append()",
+    "answer":"2"
+},
+{
+    "question":"Which operator is used to assign a value to a variable?",
+    "option1":"=",
+    "option2":"-",
+    "option3":"*",
+    "option4":"/",
+    "answer":"1"
+},
+{
+    "question":"Which of the following is not a JavaScript data type?",
+    "option1":"Boolean",
+    "option2":"Float",
+    "option3":"String",
+    "option4":"Number",
+    "answer":"2"
+},
+{
+    "question":"How do you write a JavaScript object?",
+    "option1":"[name: 'John', age: 30]",
+    "option2":"{name: 'John', age: 30}",
+    "option3":"(name: 'John', age: 30)",
+    "option4":"<name: 'John', age: 30>",
+    "answer":"2"
+}
+]
+
+
